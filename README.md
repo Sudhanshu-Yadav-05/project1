@@ -648,5 +648,4 @@ class DashboardPanel extends JPanel {
             tableModel.addRow(new Object[]{t.pnr, t.passengerName, t.trainNo, t.trainName, t.classType, t.date, t.from, t.to});
         }
     }
-}# project1
-This is my first Git Repository.
+}
